@@ -1,5 +1,5 @@
 import name from "superheroes";
 
-var sname = name.random();
+var vname = name.random();
 
-console.log(`I am ${sname}`);
+console.log(`I am ${vname}`);
